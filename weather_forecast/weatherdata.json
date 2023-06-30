@@ -1,0 +1,572 @@
+{
+  "SYR": {
+    "2023-04-20": {
+      "clouds": 80,
+      "pres": 1005.8,
+      "snow": 0,
+      "temp": 7.6,
+      "wind_spd": 1.7
+    },
+    "2023-04-21": {
+      "clouds": 54,
+      "pres": 997.3,
+      "snow": 0,
+      "temp": 17.5,
+      "wind_spd": 3
+    },
+    "2023-04-22": {
+      "clouds": 74,
+      "pres": 984.5,
+      "snow": 0,
+      "temp": 16.1,
+      "wind_spd": 4.6
+    },
+    "2023-04-23": {
+      "clouds": 72,
+      "pres": 983.1,
+      "snow": 0,
+      "temp": 10,
+      "wind_spd": 3.4
+    },
+    "2023-04-24": {
+      "clouds": 82,
+      "pres": 986.9,
+      "snow": 0,
+      "temp": 7.4,
+      "wind_spd": 3.6
+    },
+    "2023-04-25": {
+      "clouds": 72,
+      "pres": 988.8,
+      "snow": 0,
+      "temp": 7.4,
+      "wind_spd": 3.7
+    },
+    "2023-04-26": {
+      "clouds": 96,
+      "pres": 989.9,
+      "snow": 0,
+      "temp": 9.3,
+      "wind_spd": 2.8
+    },
+    "2023-04-27": {
+      "clouds": 62,
+      "pres": 988.5,
+      "snow": 0,
+      "temp": 10.2,
+      "wind_spd": 3.1
+    },
+    "2023-04-28": {
+      "clouds": 64,
+      "pres": 988.6,
+      "snow": 0,
+      "temp": 10.2,
+      "wind_spd": 3.9
+    },
+    "2023-04-29": {
+      "clouds": 98,
+      "pres": 991.2,
+      "snow": 0,
+      "temp": 10.9,
+      "wind_spd": 3.8
+    },
+    "2023-04-30": {
+      "clouds": 19,
+      "pres": 992.5,
+      "snow": 0,
+      "temp": 11.2,
+      "wind_spd": 1.5
+    },
+    "2023-05-01": {
+      "clouds": 100,
+      "pres": 982.5,
+      "snow": 0,
+      "temp": 11.2,
+      "wind_spd": 5.1
+    },
+    "2023-05-02": {
+      "clouds": 100,
+      "pres": 983,
+      "snow": 0,
+      "temp": 8.2,
+      "wind_spd": 5.4
+    },
+    "2023-05-03": {
+      "clouds": 53,
+      "pres": 986,
+      "snow": 0,
+      "temp": 9.7,
+      "wind_spd": 3.4
+    },
+    "2023-05-04": {
+      "clouds": 100,
+      "pres": 985.8,
+      "snow": 0,
+      "temp": 8.9,
+      "wind_spd": 4.8
+    },
+    "2023-05-05": {
+      "clouds": 1,
+      "pres": 996,
+      "snow": 0,
+      "temp": 8.1,
+      "wind_spd": 2.5
+    }
+  },
+  "ORD": {
+    "2023-04-20": {
+      "clouds": 69,
+      "pres": 987.8,
+      "snow": 0,
+      "temp": 16.8,
+      "wind_spd": 5.2
+    },
+    "2023-04-21": {
+      "clouds": 82,
+      "pres": 991.3,
+      "snow": 0,
+      "temp": 11,
+      "wind_spd": 4
+    },
+    "2023-04-22": {
+      "clouds": 77,
+      "pres": 987.8,
+      "snow": 0,
+      "temp": 6.3,
+      "wind_spd": 4.8
+    },
+    "2023-04-23": {
+      "clouds": 91,
+      "pres": 994.2,
+      "snow": 0,
+      "temp": 5.6,
+      "wind_spd": 4.2
+    },
+    "2023-04-24": {
+      "clouds": 37,
+      "pres": 998.3,
+      "snow": 0,
+      "temp": 6.7,
+      "wind_spd": 2.7
+    },
+    "2023-04-25": {
+      "clouds": 62,
+      "pres": 998.8,
+      "snow": 0,
+      "temp": 7.4,
+      "wind_spd": 2.8
+    },
+    "2023-04-26": {
+      "clouds": 47,
+      "pres": 998.6,
+      "snow": 0,
+      "temp": 7.7,
+      "wind_spd": 3.7
+    },
+    "2023-04-27": {
+      "clouds": 94,
+      "pres": 996.3,
+      "snow": 0,
+      "temp": 7.8,
+      "wind_spd": 4
+    },
+    "2023-04-28": {
+      "clouds": 37,
+      "pres": 994.8,
+      "snow": 0,
+      "temp": 10,
+      "wind_spd": 3.5
+    },
+    "2023-04-29": {
+      "clouds": 47,
+      "pres": 996.7,
+      "snow": 0,
+      "temp": 10.2,
+      "wind_spd": 2
+    },
+    "2023-04-30": {
+      "clouds": 100,
+      "pres": 995,
+      "snow": 0,
+      "temp": 12.6,
+      "wind_spd": 3.5
+    },
+    "2023-05-01": {
+      "clouds": 53,
+      "pres": 992.5,
+      "snow": 0,
+      "temp": 9.6,
+      "wind_spd": 4.5
+    },
+    "2023-05-02": {
+      "clouds": 5,
+      "pres": 993,
+      "snow": 0,
+      "temp": 14.5,
+      "wind_spd": 4.1
+    },
+    "2023-05-03": {
+      "clouds": 70,
+      "pres": 986.5,
+      "snow": 0,
+      "temp": 15.7,
+      "wind_spd": 4.7
+    },
+    "2023-05-04": {
+      "clouds": 50,
+      "pres": 998.8,
+      "snow": 0,
+      "temp": 11.1,
+      "wind_spd": 3.5
+    },
+    "2023-05-05": {
+      "clouds": 5,
+      "pres": 1000.5,
+      "snow": 0,
+      "temp": 14.6,
+      "wind_spd": 2.9
+    }
+  },
+  "DEN": {
+    "2023-04-19": {
+      "clouds": 83,
+      "pres": 828.8,
+      "snow": 0,
+      "temp": 9,
+      "wind_spd": 5.3
+    },
+    "2023-04-20": {
+      "clouds": 36,
+      "pres": 837.6,
+      "snow": 0,
+      "temp": 3,
+      "wind_spd": 3.9
+    },
+    "2023-04-21": {
+      "clouds": 63,
+      "pres": 837.4,
+      "snow": 0,
+      "temp": 4.6,
+      "wind_spd": 4.1
+    },
+    "2023-04-22": {
+      "clouds": 98,
+      "pres": 836.2,
+      "snow": 21.25,
+      "temp": 3.6,
+      "wind_spd": 2.3
+    },
+    "2023-04-23": {
+      "clouds": 81,
+      "pres": 833,
+      "snow": 0,
+      "temp": 8.2,
+      "wind_spd": 1.9
+    },
+    "2023-04-24": {
+      "clouds": 37,
+      "pres": 829.9,
+      "snow": 0,
+      "temp": 10.9,
+      "wind_spd": 1.6
+    },
+    "2023-04-25": {
+      "clouds": 72,
+      "pres": 827.9,
+      "snow": 0,
+      "temp": 13.4,
+      "wind_spd": 3
+    },
+    "2023-04-26": {
+      "clouds": 43,
+      "pres": 835.5,
+      "snow": 0,
+      "temp": 9.4,
+      "wind_spd": 2.9
+    },
+    "2023-04-27": {
+      "clouds": 44,
+      "pres": 831.4,
+      "snow": 0,
+      "temp": 14.7,
+      "wind_spd": 2.4
+    },
+    "2023-04-28": {
+      "clouds": 56,
+      "pres": 829.4,
+      "snow": 10.5,
+      "temp": 10.1,
+      "wind_spd": 4.3
+    },
+    "2023-04-29": {
+      "clouds": 83,
+      "pres": 835.9,
+      "snow": 3.9375,
+      "temp": 3.2,
+      "wind_spd": 2
+    },
+    "2023-04-30": {
+      "clouds": 95,
+      "pres": 840.5,
+      "snow": 0,
+      "temp": 4.8,
+      "wind_spd": 2.6
+    },
+    "2023-05-01": {
+      "clouds": 5,
+      "pres": 838.8,
+      "snow": 0,
+      "temp": 11.2,
+      "wind_spd": 1.5
+    },
+    "2023-05-02": {
+      "clouds": 18,
+      "pres": 833.3,
+      "snow": 0,
+      "temp": 17.1,
+      "wind_spd": 3.9
+    },
+    "2023-05-03": {
+      "clouds": 7,
+      "pres": 834.8,
+      "snow": 0,
+      "temp": 17.8,
+      "wind_spd": 1.6
+    },
+    "2023-05-04": {
+      "clouds": 4,
+      "pres": 836,
+      "snow": 0,
+      "temp": 20.4,
+      "wind_spd": 1.6
+    }
+  },
+  "EWR": {
+    "2023-04-20": {
+      "clouds": 10,
+      "pres": 1021.8,
+      "snow": 0,
+      "temp": 11.8,
+      "wind_spd": 2.4
+    },
+    "2023-04-21": {
+      "clouds": 38,
+      "pres": 1018.2,
+      "snow": 0,
+      "temp": 12.7,
+      "wind_spd": 3.2
+    },
+    "2023-04-22": {
+      "clouds": 75,
+      "pres": 1008.5,
+      "snow": 0,
+      "temp": 15.2,
+      "wind_spd": 4.8
+    },
+    "2023-04-23": {
+      "clouds": 54,
+      "pres": 1003.4,
+      "snow": 0,
+      "temp": 15.9,
+      "wind_spd": 3.6
+    },
+    "2023-04-24": {
+      "clouds": 37,
+      "pres": 1008.2,
+      "snow": 0,
+      "temp": 14.1,
+      "wind_spd": 4.7
+    },
+    "2023-04-25": {
+      "clouds": 37,
+      "pres": 1010.9,
+      "snow": 0,
+      "temp": 13,
+      "wind_spd": 4.8
+    },
+    "2023-04-26": {
+      "clouds": 25,
+      "pres": 1010.8,
+      "snow": 0,
+      "temp": 13.6,
+      "wind_spd": 3.9
+    },
+    "2023-04-27": {
+      "clouds": 52,
+      "pres": 1009,
+      "snow": 0,
+      "temp": 13.7,
+      "wind_spd": 4
+    },
+    "2023-04-28": {
+      "clouds": 77,
+      "pres": 1010.6,
+      "snow": 0,
+      "temp": 13.2,
+      "wind_spd": 4.9
+    },
+    "2023-04-29": {
+      "clouds": 43,
+      "pres": 1012.5,
+      "snow": 0,
+      "temp": 12.9,
+      "wind_spd": 5.2
+    },
+    "2023-04-30": {
+      "clouds": 51,
+      "pres": 1014.3,
+      "snow": 0,
+      "temp": 13.4,
+      "wind_spd": 3.2
+    },
+    "2023-05-01": {
+      "clouds": 63,
+      "pres": 1010,
+      "snow": 0,
+      "temp": 10.7,
+      "wind_spd": 3
+    },
+    "2023-05-02": {
+      "clouds": 27,
+      "pres": 1005.5,
+      "snow": 0,
+      "temp": 13.9,
+      "wind_spd": 3.9
+    },
+    "2023-05-03": {
+      "clouds": 45,
+      "pres": 1010.8,
+      "snow": 0,
+      "temp": 15,
+      "wind_spd": 2.6
+    },
+    "2023-05-04": {
+      "clouds": 94,
+      "pres": 1007,
+      "snow": 0,
+      "temp": 17.6,
+      "wind_spd": 3.1
+    },
+    "2023-05-05": {
+      "clouds": 0,
+      "pres": 1016.8,
+      "snow": 0,
+      "temp": 14.8,
+      "wind_spd": 2.5
+    }
+  },
+  "IAD": {
+    "2023-04-20": {
+      "clouds": 3,
+      "pres": 1017.1,
+      "snow": 0,
+      "temp": 20.4,
+      "wind_spd": 1.8
+    },
+    "2023-04-21": {
+      "clouds": 9,
+      "pres": 1012,
+      "snow": 0,
+      "temp": 22.4,
+      "wind_spd": 2.1
+    },
+    "2023-04-22": {
+      "clouds": 55,
+      "pres": 1003.4,
+      "snow": 0,
+      "temp": 19,
+      "wind_spd": 4.4
+    },
+    "2023-04-23": {
+      "clouds": 43,
+      "pres": 1004.4,
+      "snow": 0,
+      "temp": 14.9,
+      "wind_spd": 3.8
+    },
+    "2023-04-24": {
+      "clouds": 27,
+      "pres": 1009.1,
+      "snow": 0,
+      "temp": 14.4,
+      "wind_spd": 5.1
+    },
+    "2023-04-25": {
+      "clouds": 19,
+      "pres": 1011.3,
+      "snow": 0,
+      "temp": 13.4,
+      "wind_spd": 3.5
+    },
+    "2023-04-26": {
+      "clouds": 37,
+      "pres": 1012.3,
+      "snow": 0,
+      "temp": 13.8,
+      "wind_spd": 3.1
+    },
+    "2023-04-27": {
+      "clouds": 50,
+      "pres": 1012.2,
+      "snow": 0,
+      "temp": 14.1,
+      "wind_spd": 4.1
+    },
+    "2023-04-28": {
+      "clouds": 100,
+      "pres": 1003.8,
+      "snow": 0,
+      "temp": 14.8,
+      "wind_spd": 4.2
+    },
+    "2023-04-29": {
+      "clouds": 70,
+      "pres": 990.9,
+      "snow": 0,
+      "temp": 13.7,
+      "wind_spd": 4.3
+    },
+    "2023-04-30": {
+      "clouds": 78,
+      "pres": 996,
+      "snow": 0,
+      "temp": 12.9,
+      "wind_spd": 3.4
+    },
+    "2023-05-01": {
+      "clouds": 82,
+      "pres": 986.3,
+      "snow": 0,
+      "temp": 14.4,
+      "wind_spd": 4.1
+    },
+    "2023-05-02": {
+      "clouds": 53,
+      "pres": 992.5,
+      "snow": 0,
+      "temp": 11.8,
+      "wind_spd": 7.3
+    },
+    "2023-05-03": {
+      "clouds": 49,
+      "pres": 999.5,
+      "snow": 0,
+      "temp": 12.6,
+      "wind_spd": 5.5
+    },
+    "2023-05-04": {
+      "clouds": 3,
+      "pres": 1000.5,
+      "snow": 0,
+      "temp": 12.7,
+      "wind_spd": 4.3
+    },
+    "2023-05-05": {
+      "clouds": 27,
+      "pres": 1001.8,
+      "snow": 0,
+      "temp": 12.5,
+      "wind_spd": 4
+    }
+  }
+}
